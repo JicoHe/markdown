@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python学习/知识点.md",
+                "file": "测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python学习/知识点.md",
+                "file": "测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python学习/知识点.md",
+                "file": "测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python学习/知识点.md"
+                "file": "测试.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "26e5c011784fbd7e",
   "lastOpenFiles": [
-    "测试.md",
     "Python学习/知识点.md",
+    "测试.md",
     "Python学习/例题.md"
   ]
 }
