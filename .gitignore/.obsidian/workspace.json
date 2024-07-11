@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "ce9a7749623f8934",
+    "id": "139a72b3d474729c",
     "type": "split",
     "children": [
       {
-        "id": "e41abeb3d8768d3d",
+        "id": "f974e13ab589cbbd",
         "type": "tabs",
         "children": [
           {
-            "id": "26e5c011784fbd7e",
+            "id": "1c355cecc2e39e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试.md",
+                "file": "Python学习/知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "695ceef0a1b2a8d8",
+    "id": "15cc244c463c64e9",
     "type": "split",
     "children": [
       {
-        "id": "9ddb0cf3b2e9a433",
+        "id": "42c2c1bb34fd77de",
         "type": "tabs",
         "children": [
           {
-            "id": "21142ed883a43333",
+            "id": "2806068665a93682",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "6aeed22802f3f44a",
+            "id": "ae2ca1a968a95334",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "83dca97ba14712f1",
+            "id": "42ec6256bbc20291",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "f716d451c93b0bfe",
+    "id": "ece565369af06caf",
     "type": "split",
     "children": [
       {
-        "id": "de0d068e72f1bf75",
+        "id": "e219bfd278a2ed38",
         "type": "tabs",
         "children": [
           {
-            "id": "664ba3cc378eeed8",
+            "id": "21571b8988785512",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "测试.md",
+                "file": "Python学习/知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "427387dc9b3c54f8",
+            "id": "928b938b44516a00",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "测试.md",
+                "file": "Python学习/知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "690d0a477fc862d2",
+            "id": "e1cc286f0a6588ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +121,21 @@
             }
           },
           {
-            "id": "bd67ba552380c31c",
+            "id": "2235893128b997ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试.md"
+                "file": "Python学习/知识点.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "26e5c011784fbd7e",
+  "active": "1c355cecc2e39e35",
   "lastOpenFiles": [
+    "Python学习/例题.md",
+    "测试.md",
     "Python学习/知识点.md",
-    "Python学习/例题.md"
+    "Python学习/未命名.md"
   ]
 }
