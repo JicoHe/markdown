@@ -382,3 +382,8 @@ for line in lines:
 ```
 	5. 使用文本的内容
 2. 写入文件
+```python
+with open(filename, 'w') as file_object:  
+    file_object.write('I love programming.!')
+```
+- `'w'`表示以读写模式打开wen jian
