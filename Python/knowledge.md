@@ -410,4 +410,6 @@ except ZeroDivisionError:
 else:
 	statement...
 ```
-常见jin
+常见情况有：
+- `ZeroDivisionError`
+- 
