@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Python/knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f716d451c93b0bfe",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Python/knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Python/knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Python/knowledge.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21142ed883a43333",
+  "active": "811de6e4680efd0b",
   "lastOpenFiles": [
-    "Python/knowledge.md",
     "未命名.md",
+    "Python/knowledge.md",
     "Python/例题.md",
     "AI/AI stage 1.md",
     "AI",
