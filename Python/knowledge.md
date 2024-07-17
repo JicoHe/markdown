@@ -416,3 +416,4 @@ else:
 - `ZeroDivisionError`
 - `FileNoFoundError`
 4. 分析文本
+	拆分文本单词：s p
