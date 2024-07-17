@@ -358,4 +358,4 @@ class child_class(parent_class)
 
 ### 文件的读取与使用
 1. 读取文件
-	
+	1. 将文件读取道内存中
