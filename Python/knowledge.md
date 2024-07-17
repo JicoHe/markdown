@@ -412,4 +412,4 @@ else:
 ```
 常见情况有：
 - `ZeroDivisionError`
-- 
+- `FileNoFoundError`
