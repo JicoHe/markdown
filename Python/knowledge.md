@@ -358,5 +358,5 @@ class child_class(parent_class)
 
 ### 文件的读取与使用
 1. 读取文件
-	1. 打开文件：`with open('file') as file_object`
+	1. 打开文件：`with open('file') as file_object`open函数的作用是用一个物体去代替文件
 	2. 将文件读取道内存中：`contents = file_object.read()`用到read()方法
