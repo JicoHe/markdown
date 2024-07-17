@@ -361,4 +361,4 @@ class child_class(parent_class)
 	1. 打开文件：`with open('file') as file_object`  
 		- open函数的作用是用一个物体去代替文件
 		- with的作用是读取文件后关闭文件
-	2. 将文件读取道内存中：`contents = file_object.read()`用到read()方法读取整个内容
+	2. 将文件读取道内存中：`contents = file_object.read()`用到read()方法读取整个内容，同时==会返回一行空行==，jie jue
