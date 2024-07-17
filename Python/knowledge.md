@@ -370,4 +370,4 @@ class child_class(parent_class)
 		statement  # 这样会按行读取，而不是read()方法的整个读取
 ```
 	4. 做行的列表
-		原因是再次访问wen jian
+		原因是想要再次访问文件的信息在with的外面
