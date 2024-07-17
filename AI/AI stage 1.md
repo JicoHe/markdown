@@ -5,4 +5,4 @@
 - Optimization优化
 - delayed consequences延迟结果
 - exploration探索
-- generalization
+- generalization概括
