@@ -371,3 +371,4 @@ class child_class(parent_class)
 ```
 	4. 做行的列表
 		原因是想要再次访问文件的信息在with的外面
+		解决：通过使用==readlines()==方法
