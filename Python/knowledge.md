@@ -372,4 +372,12 @@ class child_class(parent_class)
 	4. 做行的列表
 		原因是想要再次访问文件的信息在with的外面
 		解决：通过使用==readlines()==方法
-	5.使用wen
+		```python
+with open('pi_digits.txt') as file_object:  
+    lines = file_object.readlines()  
+  
+for line in lines:  
+    print(line.rstrip())
+```
+	5. 使用文本的内容
+		
