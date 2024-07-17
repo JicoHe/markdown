@@ -365,7 +365,8 @@ class child_class(parent_class)
 		- 你也可以将open()内的地址作为一个变量，在外面设置。
 	2. 将文件读取道内存中：`contents = file_object.read()`用到read()方法读取整个内容，同时==会返回一行空行==，解决问题是加一个rstrip()方法去消掉字符串右侧的物体
 	3. 通过读取每一行的形式
-```python
+	```python
 	for line in file_object:
 		statement  # 这样会按行读取，而不是read()方法的整个读取
 ```
+	4. f
