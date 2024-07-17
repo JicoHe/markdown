@@ -369,4 +369,5 @@ class child_class(parent_class)
 	for line in file_object:
 		statement  # 这样会按行读取，而不是read()方法的整个读取
 ```
-	4. f
+	4. 做行的列表
+		原因是再次访问wen jian
