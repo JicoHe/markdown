@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26e5c011784fbd7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/知识点.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "811de6e4680efd0b",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f716d451c93b0bfe",
