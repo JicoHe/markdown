@@ -358,4 +358,5 @@ class child_class(parent_class)
 
 ### 文件的读取与使用
 1. 读取文件
-	1. 将文件读取道内存中：首先需要open，然后将内容读取道
+	1. 打开文件：`with open('file')
+	2. 将文件读取道内存中：
