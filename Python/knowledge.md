@@ -416,4 +416,5 @@ else:
 - `ZeroDivisionError`
 - `FileNoFoundError`
 4. 分析文本
-	拆分文本单词：s p
+拆分文本单词：split()方法
+处理多个文件
