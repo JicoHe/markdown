@@ -381,4 +381,4 @@ for line in lines:
     print(line.rstrip())
 ```
 	5. 使用文本的内容
-	2
+2. 写入文件
