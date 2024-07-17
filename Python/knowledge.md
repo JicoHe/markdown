@@ -388,4 +388,5 @@ with open(filename, 'w') as file_object:
     file_object.write('I love programming.!')
 ```
 - `'w'`表示以读写模式打开文件
-- `write()`方法为写入什么内容，以覆盖的xin
+- `write()`方法为写入什么内容，以覆盖的形式
+	- 只能写入字符串形式，如果要写入数字，用`sta()`
