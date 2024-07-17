@@ -401,4 +401,10 @@ with open(filename, 'a') as file_object:
 - 'a'`表示以添加模式打开文件，在文章末尾加入
 
 3. 预测
-是处理会产生错误的情况，用`try:except:`词块
+是处理会产生错误的情况，用`try-except`词块：
+```python
+try:  
+    print(5/0)  
+except ZeroDivisionError:  
+    print("You can't Division by zero")
+```
