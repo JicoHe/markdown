@@ -414,3 +414,4 @@ else:
 常见情况有：
 - `ZeroDivisionError`
 - `FileNoFoundError`
+4. 分析文本
