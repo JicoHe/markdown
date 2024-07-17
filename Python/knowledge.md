@@ -401,3 +401,4 @@ with open(filename, 'a') as file_object:
 - 'a'`表示以添加模式打开文件，在文章末尾加入
 
 3. 预测
+是
