@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI stage 1.md",
+                "file": "Python/例题.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f716d451c93b0bfe",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI stage 1.md",
+                "file": "Python/例题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI stage 1.md",
+                "file": "Python/例题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI stage 1.md"
+                "file": "Python/例题.md"
               }
             }
           }
@@ -149,7 +148,7 @@
   },
   "active": "811de6e4680efd0b",
   "lastOpenFiles": [
-    "Python/知识点.md",
+    "Python/knowledge.md",
     "AI/AI stage 1.md",
     "AI",
     "测试.md",
