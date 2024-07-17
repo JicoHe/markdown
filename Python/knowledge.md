@@ -382,7 +382,7 @@ for line in lines:
 ```
 	5. 使用文本的内容
 2. 写入文件
-
+write()覆盖
 ```python
 filename = '...'
 with open(filename, 'w') as file_object:  
@@ -391,3 +391,5 @@ with open(filename, 'w') as file_object:
 - `'w'`表示以读写模式打开文件
 - `write()`方法为写入什么内容，以**覆盖**的形式
 - 只能写入**字符串**，如果要写入数字，用`str()`函数转换
+
+添加
