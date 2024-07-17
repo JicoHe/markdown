@@ -367,5 +367,5 @@ class child_class(parent_class)
 	3. 通过读取每一行的形式
 ```python
 	for line in file_object:
-		statement  # 这样会an
+		statement  # 这样会按行读取，而不是read()方法的整个读取
 ```
