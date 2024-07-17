@@ -7,4 +7,5 @@
 - exploration探索
 - generalization概括
 四种常见的：
-1. AI planing 优化、概括
+1. AI planing 优化、概括、延迟结果。
+2. 监督机器学习：优化、概括，从经验中学习，返回正常的结果
