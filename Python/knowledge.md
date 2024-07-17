@@ -392,4 +392,10 @@ with open(filename, 'w') as file_object:
 - `write()`方法为写入什么内容，以**覆盖**的形式
 - 只能写入**字符串**，如果要写入数字，用`str()`函数转换
 
-添加
+append添加
+```python
+filename = '...'
+with open(filename, 'a') as file_object:  
+    file_object.write('I love programming.!')
+```
+- 
