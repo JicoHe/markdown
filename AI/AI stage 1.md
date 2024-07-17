@@ -6,3 +6,5 @@
 - delayed consequences延迟结果
 - exploration探索
 - generalization概括
+四种常见的：
+1. AI planing 优化、概括
