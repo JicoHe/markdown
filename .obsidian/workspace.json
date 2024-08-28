@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/knowledge.md",
+                "file": "AI/AI stage 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30e94085ec9b25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性回归.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/knowledge.md",
+                "file": "线性回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/knowledge.md",
+                "file": "线性回归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/knowledge.md"
+                "file": "线性回归.md"
               }
             }
           }
@@ -135,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,12 +161,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "811de6e4680efd0b",
+  "active": "e30e94085ec9b25a",
   "lastOpenFiles": [
-    "未命名.md",
+    "AI/AI stage 1.md",
+    "线性回归.md",
+    "Pytorch",
     "Python/knowledge.md",
     "Python/例题.md",
-    "AI/AI stage 1.md",
     "AI",
     "测试.md"
   ]
