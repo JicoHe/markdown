@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e41abeb3d8768d3d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bc5d5ad762692e87",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "Pytorch/05. PyTorch 加载数据初认识.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "fb2e3e8af0ddf6d6",
         "type": "tabs",
         "children": [
@@ -163,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55b32e6eb69bf32c",
+  "active": "21142ed883a43333",
   "lastOpenFiles": [
     "Pytorch/线性回归.md",
     "Pytorch/05. PyTorch 加载数据初认识.md",
