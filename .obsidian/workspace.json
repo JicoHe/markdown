@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI stage 1.md",
+                "file": "Pytorch/线性回归.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e30e94085ec9b25a",
+            "id": "bc5d5ad762692e87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性回归.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f716d451c93b0bfe",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线性回归.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线性回归.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性回归.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -161,10 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e30e94085ec9b25a",
+  "active": "bc5d5ad762692e87",
   "lastOpenFiles": [
+    "Pytorch/线性回归.md",
+    "未命名.md",
     "AI/AI stage 1.md",
-    "线性回归.md",
     "Pytorch",
     "Python/knowledge.md",
     "Python/例题.md",
