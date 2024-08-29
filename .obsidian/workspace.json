@@ -23,11 +23,9 @@
             "id": "bc5d5ad762692e87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "Pytorch/05. PyTorch 加载数据初认识.md",
-                "mode": "source",
-                "source": false
+                "file": "Pytorch/05. PyTorch 加载数据初认识.md"
               }
             }
           }
