@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/05. PyTorch 加载数据初认识.md",
+                "file": "Python/knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pytorch/05. PyTorch 加载数据初认识.md",
+                "file": "Python/knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pytorch/05. PyTorch 加载数据初认识.md",
+                "file": "Python/knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pytorch/05. PyTorch 加载数据初认识.md"
+                "file": "Python/knowledge.md"
               }
             }
           }
@@ -147,14 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21142ed883a43333",
+  "active": "55b32e6eb69bf32c",
   "lastOpenFiles": [
-    "Pytorch/线性回归.md",
+    "Python/例题.md",
+    "Python/knowledge.md",
     "Pytorch/05. PyTorch 加载数据初认识.md",
+    "Pytorch/线性回归.md",
     "AI/AI stage 1.md",
     "Pytorch",
-    "Python/knowledge.md",
-    "Python/例题.md",
     "AI",
     "测试.md"
   ]
