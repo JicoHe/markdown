@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1078111899ee5cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/knowledge.md",
+                "file": "Python/numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/knowledge.md",
+                "file": "Python/numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/knowledge.md"
+                "file": "Python/numpy.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55b32e6eb69bf32c",
+  "active": "1078111899ee5cd4",
   "lastOpenFiles": [
-    "Python/例题.md",
     "Python/knowledge.md",
+    "Python/numpy.md",
+    "Python/numpy/未命名.md",
+    "Python/numpy",
+    "Python/例题.md",
     "Pytorch/05. PyTorch 加载数据初认识.md",
     "Pytorch/线性回归.md",
     "AI/AI stage 1.md",
